@@ -37,4 +37,4 @@ Backend-oriented Full Stack Developer focused on building real, scalable systems
 
 - 📧 Email: gonzalo.carranza2001@gmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/gonzacar/
-- 🌐 Portfolio: https://gonzalo-carranza.pages.dev/
+- 🌐 Portfolio: https://portfolio.gonzxa.online/
